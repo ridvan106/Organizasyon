@@ -1,0 +1,23 @@
+Quartus II Archive log --	C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/Ridvan_Demirci_141044070/ridvan.qarlog
+
+Archive:	C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/Ridvan_Demirci_141044070/ridvan.qar
+Date:		Wed Jan 03 16:00:02 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/assignment_defaults.qdf
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/data.mem
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/db/project03.cmp.hdb
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/db/project03.db_info
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/incremental_db/compiled_partitions/project03.db_info
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/instruction.mem
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/mips_core.v
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/mips_instr_mem.v
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/mips_testbench.v
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/project03.qpf
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/project03.qsf
+C:/Users/Asus/Desktop/organizasyon/odevler/odev3/project/templateForProject03_restored/registers.mem
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
